@@ -41,22 +41,9 @@ Background music is attached to the Main Camera so it plays immediately on start
 Win sound is attached to the Player (ball) and only triggers when the ball is clicked at the end
 
 
-🛠️ Built With
+ Built With
 
 Unity
 C# scripting
 Unity Asset Store (free assets)
 Mixkit for audio
-
-
-📁 Project Structure
-Assets/
-├── Scenes/
-├── Scripts/
-├── Materials/
-│   ├── border
-│   └── glass
-├── Audio/
-│   ├── getting-ready (background music)
-│   └── game-level-music (win sound)
-└── Prefabs/
