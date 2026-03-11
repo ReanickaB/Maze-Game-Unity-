@@ -1,4 +1,4 @@
-Unity Maze Game
+# Unity Maze Game
 A 3D maze game built in Unity where the player tilts the maze to roll a ball to the end goal. Built as part of Assignment 2.
 
  How to Play
